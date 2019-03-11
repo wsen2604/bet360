@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/wsen2604/bet360/raw/master/image.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/wsen2604/bet360/raw/master/image.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
